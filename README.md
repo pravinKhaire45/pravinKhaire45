@@ -1,19 +1,30 @@
-<h1 align="center">Hi 👋, I'm Pravin Khaire</h1>
-<h3 align="center">Backend Software Engineer | Node.js · Express.js · MongoDB · MySQL · REST APIs · React | Generative AI & OpenAI APIs</h3>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:00C6FF&height=220&section=header&text=Pravin%20Khaire&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20Engineer%20%7C%20AI%20Builder%20%7C%20Story%20still%20loading...&descAlignY=58&descSize=20" alt="header banner"/>
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=900&color=6C63FF&center=true&vCenter=true&width=650&lines=Backend+Software+Engineer;Node.js+%7C+Express.js+%7C+MongoDB+%7C+MySQL;Generative+AI+%2F+RAG+%2F+OpenAI+APIs;Turning+%22it+works+on+my+machine%22+into+production" alt="typing animation" />
+
+<br/>
+
+<a href="https://www.linkedin.com/in/pravinkhaire" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:khairepravin14@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="tel:+917620805458">
+  <img src="https://img.shields.io/badge/Call-4CAF50?style=for-the-badge&logo=phone&logoColor=white" />
+</a>
+
+<br/><br/>
+
+📍 Pune / Pimpri-Chinchwad Area, India
+
+</div>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/pravinkhaire" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:khairepravin14@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="tel:+917620805458">
-    <img src="https://img.shields.io/badge/Call-4CAF50?style=for-the-badge&logo=phone&logoColor=white" />
-  </a>
+  <i>"Every great backend starts as a broken build at 2 AM — the difference is who keeps debugging."</i>
 </p>
-
-<p align="center">📍 Pune / Pimpri-Chinchwad Area, India</p>
 
 ---
 
@@ -101,6 +112,21 @@ I'm a Software Engineer with **1.5+ years of experience** building scalable back
 
 ---
 
+### ⚡ Current Stats — Character Sheet
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center"><i>🔧 Currently grinding XP in: RAG pipelines, multi-tenant architecture, and shipping features that don't break at 3 AM.</i></p>
+
+---
+
 ### 📫 Let's Connect
 
 <p align="left">
@@ -113,3 +139,5 @@ I'm a Software Engineer with **1.5+ years of experience** building scalable back
 </p>
 
 <p align="center"><i>💡 Building scalable, AI-powered software — one commit at a time.</i></p>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00C6FF,100:6C63FF&height=120&section=footer" alt="footer banner"/>
