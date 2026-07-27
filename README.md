@@ -112,15 +112,12 @@ I'm a Software Engineer with **1.5+ years of experience** building scalable back
 
 ---
 
-### ⚡ Current Stats — Character Sheet
+### ⚡ Currently Building
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" />
+  <img src="https://img.shields.io/badge/Coding%20Since-2023-6C63FF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Experience-1.5%2B%20Years-00C6FF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Focus-Backend%20%26%20Generative%20AI-9146FF?style=for-the-badge" />
 </p>
 
 <p align="center"><i>🔧 Currently grinding XP in: RAG pipelines, multi-tenant architecture, and shipping features that don't break at 3 AM.</i></p>
