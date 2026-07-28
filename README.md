@@ -30,47 +30,56 @@
 
 ### 🚀 About Me
 
-I'm a Software Engineer with **1.5+ years of experience** building scalable backend systems, AI-powered applications, and fullstack platforms that solve real business problems — not just prototypes.
+I build scalable backend systems, AI-powered features, and fullstack platforms that solve real business problems — not just prototypes.
 
-- 🔭 Currently working as a **Lead Software Engineer**, driving backend architecture and AI initiatives for a multi-tenant SaaS platform
-- 🛠️ I specialize in designing **secure, high-performance backend services** using Node.js, Express.js, MySQL, MongoDB, Redis, and REST APIs
-- 🤖 Passionate about **Generative AI** — building LLM-powered features, RAG pipelines, prompt-engineered solutions, and intelligent automation workflows
-- 📈 Delivered measurable impact: **40% faster API response times**, **25% increase in user engagement**, and led a **monolith-to-microservices migration**
-- 🎓 B.Tech in **Artificial Intelligence** from G.H. Raisoni College of Engineering and Management, Pune
-- 🤝 Open to connecting with engineers, founders, and recruiters working on **AI-first products, backend platforms, and intelligent automation**
+- 🔭 Currently a **Lead Software Engineer**, driving backend architecture and AI initiatives for a multi-tenant SaaS platform
+- 🛠️ Specialize in secure, high-performance backend services — **Node.js, Express.js, MySQL, MongoDB, Redis, REST APIs**
+- 🤖 Deep interest in **Generative AI** — LLM-powered features, RAG pipelines, prompt engineering, and intelligent automation
+- 📈 Shipped measurable impact: **40% faster APIs**, **25% higher engagement**, and a **monolith → microservices migration**
+- 🎓 B.Tech in **Artificial Intelligence**, G.H. Raisoni College of Engineering and Management, Pune
+- 🤝 Open to connecting with engineers, founders, and recruiters building **AI-first products & backend platforms**
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Coding%20Since-2023-6C63FF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Experience-1.5%2B%20Years-00C6FF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Open%20to-Work-brightgreen?style=for-the-badge" />
+</p>
 
 ---
 
 ### 🧰 Tech Stack
 
-**Languages & Runtime**
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+<p align="center">
+  <b>Languages & Runtime</b><br/>
+  <img src="https://skillicons.dev/icons?i=js,nodejs,java,py&theme=dark" />
+</p>
 
-**Backend & APIs**
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
-![REST APIs](https://img.shields.io/badge/REST%20APIs-FF6C37?style=flat-square&logo=fastapi&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
-![Microservices](https://img.shields.io/badge/Microservices-4479A1?style=flat-square&logo=kubernetes&logoColor=white)
+<p align="center">
+  <b>Backend & APIs</b><br/>
+  <img src="https://skillicons.dev/icons?i=express&theme=dark" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/REST%20APIs-FF6C37?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/JWT%20Auth-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
+  <img src="https://img.shields.io/badge/Microservices-4479A1?style=for-the-badge" />
+</p>
 
-**Databases & Caching**
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Sequelize](https://img.shields.io/badge/Sequelize.js-52B0E7?style=flat-square&logo=sequelize&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+<p align="center">
+  <b>Databases & Caching</b><br/>
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,redis&theme=dark" />
+</p>
 
-**Frontend**
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+<p align="center">
+  <b>Frontend</b><br/>
+  <img src="https://skillicons.dev/icons?i=react,html,css&theme=dark" />
+</p>
 
-**AI / Cloud / Tools**
-![OpenAI](https://img.shields.io/badge/OpenAI%20APIs-412991?style=flat-square&logo=openai&logoColor=white)
-![RAG](https://img.shields.io/badge/RAG-9146FF?style=flat-square)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+<p align="center">
+  <b>AI, Cloud &amp; Tools</b><br/>
+  <img src="https://skillicons.dev/icons?i=aws,git&theme=dark" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/OpenAI%20APIs-412991?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/RAG-9146FF?style=for-the-badge" />
+</p>
 
 ---
 
@@ -112,15 +121,11 @@ I'm a Software Engineer with **1.5+ years of experience** building scalable back
 
 ---
 
-### ⚡ Currently Building
+### 🏆 Trophy Case
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Coding%20Since-2023-6C63FF?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Experience-1.5%2B%20Years-00C6FF?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Focus-Backend%20%26%20Generative%20AI-9146FF?style=for-the-badge" />
+  <img src="https://github-profile-trophy.vercel.app/?username=pravinkhaire45&theme=algolia&no-frame=true&row=1&column=6&margin-w=10" />
 </p>
-
-<p align="center"><i>🔧 Currently grinding XP in: RAG pipelines, multi-tenant architecture, and shipping features that don't break at 3 AM.</i></p>
 
 ---
 
@@ -130,17 +135,15 @@ I'm a Software Engineer with **1.5+ years of experience** building scalable back
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=pravinkhaire45&theme=react-dark&hide_border=true&area=true&bg_color=0d1117" width="100%" />
 </p>
 
-<!--START_SECTION:waka-->
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=pravinkhaire45&theme=tokyonight&hide_border=true&background=0d1117" />
 </p>
-<!--END_SECTION:waka-->
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/pravinkhaire45/pravinkhaire45/output/github-contribution-grid-snake.svg" width="100%" alt="contribution snake animation" />
 </p>
 
-<p align="center"><sub>🐍 Snake animation renders automatically once the GitHub Action below is added to this repo</sub></p>
+<p align="center"><sub>🐍 Snake animation goes live once the GitHub Action (snake.yml) is added to this repo — see setup note at the bottom</sub></p>
 
 ---
 
@@ -164,5 +167,9 @@ I'm a Software Engineer with **1.5+ years of experience** building scalable back
 </p>
 
 <p align="center"><i>💡 Building scalable, AI-powered software — one commit at a time.</i></p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=pravinkhaire45&label=Profile%20Views&color=6c63ff&style=flat" />
+</p>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00C6FF,100:6C63FF&height=120&section=footer" alt="footer banner"/>
