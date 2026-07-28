@@ -124,6 +124,34 @@ I'm a Software Engineer with **1.5+ years of experience** building scalable back
 
 ---
 
+### 📊 Contribution Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pravinkhaire45&theme=react-dark&hide_border=true&area=true&bg_color=0d1117" width="100%" />
+</p>
+
+<!--START_SECTION:waka-->
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pravinkhaire45&theme=tokyonight&hide_border=true&background=0d1117" />
+</p>
+<!--END_SECTION:waka-->
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/pravinkhaire45/pravinkhaire45/output/github-contribution-grid-snake.svg" width="100%" alt="contribution snake animation" />
+</p>
+
+<p align="center"><sub>🐍 Snake animation renders automatically once the GitHub Action below is added to this repo</sub></p>
+
+---
+
+### 🌐 Tools I Move Fast With
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,js,react,mongodb,mysql,redis,aws,git,java,python&theme=dark" />
+</p>
+
+---
+
 ### 📫 Let's Connect
 
 <p align="left">
